@@ -17,21 +17,15 @@ p {
 }
 
 .profile-pic {
-  background: linear-gradient(to right, #009688, #4caf50);
   height: 160px;
   width: 100%;
-  border-radius: 10px;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
 }
 
 .profile-image {
-  border-radius: 50%;
   width: 200px;
   height: auto;
   position: relative;
   top: 30px;
-  border: 6px solid #f4f3f3;
 }
 
 .profile-info {
@@ -42,6 +36,5 @@ p {
 
 .profile-name {
   padding-top: 5px;
-  list-style: disc;
   padding-left: 40px;
 }
