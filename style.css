@@ -3,10 +3,9 @@ body {
 }
 
 img {
-  border-radius: 50%;
-  width: 200px;
-  height: auto;
-  position: relative;
+  width:100%;
+  height:80%;
+  object-fit: cover;
 }
 
 div.polaroid {
